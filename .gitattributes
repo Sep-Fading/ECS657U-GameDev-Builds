@@ -1,5 +1,3 @@
 *.wasm binary
-*.wasm application/wasm
 *.data binary
-*.data application/octet-stream
-*.framework.js text/javascript
+*.framework.js text
